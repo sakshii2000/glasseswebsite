@@ -9,7 +9,7 @@ const staticAssets = [
   'cart.html',
   'contact.html',
   'login.html',
-  'product.html',
+  'products.html',
   'register.html',
 ];
 
