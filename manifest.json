@@ -1,0 +1,21 @@
+{
+    "name": "Shopee",
+    "short_name": "Shopee",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#2A3443",
+    "description": "glasses buying application",
+    "theme_color": "#2A3443",
+    "icons": [
+      {
+        "src": "images/shoppe logo 518x199.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "images/shoppe logo 98x38.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
